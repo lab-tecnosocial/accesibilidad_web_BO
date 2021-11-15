@@ -1,5 +1,5 @@
 # accesibilidad_web_BO
-Datos sobre accesibilidad web en Bolivia
+Datos sobre accesibilidad web en Bolivia. Ver el artículo en: https://labtecnosocial.org/discapacidad-visual-y-accesibilidad-web/
 
 Una primera medición de la accesibilidad de los siguientes sitios web del gobierno de Bolivia con la herramienta [axe DevTools](https://www.deque.com/axe/).
 
